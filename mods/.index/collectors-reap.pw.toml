@@ -1,0 +1,17 @@
+filename = 'collectorsreap-1.20.1-1.3.3.jar'
+name = "Collector's Reap"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = "Collector's Reap 1.3.3 - 1.20.1"
+
+[download]
+hash = '697cdd11908ebe0a9da930113b433ba319874487'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6124041
+project-id = 807101

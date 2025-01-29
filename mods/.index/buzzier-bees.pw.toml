@@ -1,0 +1,17 @@
+filename = 'buzzier_bees-1.20.1-6.0.0.jar'
+name = 'Buzzier Bees'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Buzzier Bees 1.20.1 - 6.0.0'
+
+[download]
+hash = '5de23e8c0e88ded278bb7fd1bddd245c88c72eb4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5229011
+project-id = 355458

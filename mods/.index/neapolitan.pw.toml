@@ -1,0 +1,17 @@
+filename = 'neapolitan-1.20.1-5.0.0.jar'
+name = 'Neapolitan'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Neapolitan 1.20.1 - 5.0.0'
+
+[download]
+hash = '2ef19ce68ea3873d572eb1440da58b0f1f9a41db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5296594
+project-id = 382016

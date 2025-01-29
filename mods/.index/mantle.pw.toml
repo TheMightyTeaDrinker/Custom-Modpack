@@ -1,0 +1,17 @@
+filename = 'Mantle-1.20.1-1.11.36.jar'
+name = 'Mantle'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'Mantle 1.11.36 for 1.20.1'
+
+[download]
+hash = '5ccb2f86c2b706c8f26e8b25410ea15160859888'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6105891
+project-id = 74924

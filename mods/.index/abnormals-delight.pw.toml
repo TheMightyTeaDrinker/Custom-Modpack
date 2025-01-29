@@ -1,0 +1,17 @@
+filename = 'abnormals_delight-1.20.1-5.0.0.jar'
+name = 'Abnormals Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Abnormals Delight 1.20.1 - 5.0.0'
+
+[download]
+hash = '14e9b7d375c793e39cc358a5b805976dfeee8f60'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6057626
+project-id = 442719
