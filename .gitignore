@@ -2,49 +2,49 @@
 /.git/
 
 # Ignore the coremods directory
-/coremods/
+/minecraft/coremods/
 
 # Ignore the crash-reports directory
-/crash-reports/
+/minecraft/crash-reports/
 
 # Ignore the defaultconfigs directory
-/defaultconfigs/
+/minecraft/defaultconfigs/
 
 # Ignore the icon.png file
-/icon.png
+/minecraft/icon.png
 
 # Ignore the logs directory
-/logs/
+/minecraft/logs/
 
 # Ignore the options.txt file
-/options.txt
+/minecraft/options.txt
 
 # Ignore the resourcepacks directory
-/resourcepacks/
+/minecraft/resourcepacks/
 
 # Ignore the saves directory
-/saves/
+/minecraft/saves/
 
 # Ignore the schematics directory
-/schematics/
+/minecraft/schematics/
 
 # Ignore the screenshots directory
-/screenshots/
+/minecraft/screenshots/
 
 # Ignore the server-resource-packs directory
-/server-resource-packs/
+/minecraft/server-resource-packs/
 
 # Ignore the shaderpacks directory
-/shaderpacks/
+/minecraft/shaderpacks/
 
 # Ignore the texturepacks directory
-/texturepacks/
+/minecraft/texturepacks/
 
 # Ignore the usercache.json file
-/usercache.json
+/minecraft/usercache.json
 
 # Ignore the usernamecache.json file
-/usernamecache.json
+/minecraft/usernamecache.json
 
 # Ignore the xaero directory
-/xaero/
+/minecraft/xaero/
