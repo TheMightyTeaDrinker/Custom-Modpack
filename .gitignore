@@ -1,0 +1,50 @@
+# Ignore the .git directory (Git metadata)
+/.git/
+
+# Ignore the coremods directory
+/coremods/
+
+# Ignore the crash-reports directory
+/crash-reports/
+
+# Ignore the defaultconfigs directory
+/defaultconfigs/
+
+# Ignore the icon.png file
+/icon.png
+
+# Ignore the logs directory
+/logs/
+
+# Ignore the options.txt file
+/options.txt
+
+# Ignore the resourcepacks directory
+/resourcepacks/
+
+# Ignore the saves directory
+/saves/
+
+# Ignore the schematics directory
+/schematics/
+
+# Ignore the screenshots directory
+/screenshots/
+
+# Ignore the server-resource-packs directory
+/server-resource-packs/
+
+# Ignore the shaderpacks directory
+/shaderpacks/
+
+# Ignore the texturepacks directory
+/texturepacks/
+
+# Ignore the usercache.json file
+/usercache.json
+
+# Ignore the usernamecache.json file
+/usernamecache.json
+
+# Ignore the xaero directory
+/xaero/
