@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Modpack Download</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1a1a1a;
+            color: #ffffff;
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .download-btn {
+            background-color: #2ea44f;
+            color: white;
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 1rem;
+            transition: background-color 0.3s;
+        }
+
+        .download-btn:hover {
+            background-color: #22863a;
+        }
+
+        .description {
+            margin: 2rem 0;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Custom Modpack</h1>
+        
+        <div class="description">
+            <p>Click the button below to download the modpack as a ZIP file.</p>
+            <p>Installation instructions:</p>
+            <ol style="text-align: left; display: inline-block; margin: 0 auto;">
+                <li>Download the ZIP file</li>
+                <li>Extract it to your Minecraft "mods" folder</li>
+                <li>Launch Minecraft with your preferred modloader (Forge/Fabric)</li>
+            </ol>
+        </div>
+
+        <!-- Update the URL with your GitHub username and repository name -->
+        <a href="https://github.com/TheMightyTeaDrinker/Custom-Modpack/archive/refs/heads/main.zip" 
+           class="download-btn" 
+           download="Custom-Modpack.zip">
+            Download Modpack
+        </a>
+    </div>
+</body>
+</html>
